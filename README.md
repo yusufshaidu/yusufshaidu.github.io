@@ -2,7 +2,7 @@
 
 💡 **About Me**
 
-I’m a researcher specializing in **Density Functional Theory (DFT)**, **Machine Learning Interatomic Potentials (MLIPs)**, and **ML-accelerated Molecular Dynamics simulations**.  
+I’m a researcher specializing in Density Functional Theory (DFT), Machine Learning Interatomic Potentials (MLIPs), Data generation and curation, and ML-accelerated Molecular Dynamics simulations**.  
 My work focuses on bridging **quantum mechanical accuracy** with **machine learning efficiency**, enabling accurate and transferable models for complex materials systems.  
 I develop **scientific software**, including open-source frameworks for atomistic simulations and machine learning potentials.
 

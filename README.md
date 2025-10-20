@@ -1,14 +1,10 @@
 ### 👋 Hi there! I'm **Yusuf Shaidu**
 
 <p align="center">
-  <img src="https://github.com/yusufshaidu/yusufshaidu.github.io/blob/main/likedin_picture.jpeg" width="100" style="border-radius: 50%;" alt="Yusuf Shaidu">
+  <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" width="100" style="border-radius: 50%;" alt="Yusuf Shaidu">
-</p>
 
 💡 **About Me**
 

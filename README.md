@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" width="100" style="border-radius: 50%;" alt="Yusuf Shaidu">
+</p>
+
 💡 **About Me**
 
 I’m a researcher specializing in Density Functional Theory (DFT), Machine Learning Interatomic Potentials (MLIPs), Data generation and curation, and ML-accelerated Molecular Dynamics simulations**.  

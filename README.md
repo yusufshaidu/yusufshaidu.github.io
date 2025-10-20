@@ -26,9 +26,9 @@ I develop **scientific software**, including open-source frameworks for atomisti
 ---
 
 📫 **Connect with me**
-- 🌐 [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yusuf-shaidu-73b170a2))
-- 🧑‍💻 [GitHub]([https://github.com/yusufshaidu](https://github.com/yusufshaidu))
+- 🌐 [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-shaidu-73b170a2)
+- 🧑‍💻 [GitHub](https://github.com/yusufshaidu)
 
 ---
 

@@ -28,7 +28,8 @@ I develop **scientific software**, including open-source frameworks for atomisti
 ---
 
 🧩 **Tools & Expertise**
-| DFT | MLIPs | Python | TensorFlow | PyTorch | ASE | Phonopy | PANNA |
+| DFT | MLIPs | Python | TensorFlow | PyTorch | ASE | Phonopy | PANNA | BACENET |
+
 |:----|:------|:--------|:------------|:----------|:-----|:----------|:--------|
 
 ---
@@ -40,4 +41,4 @@ I develop **scientific software**, including open-source frameworks for atomisti
 
 ---
 
-⭐ _“Accelerating materials discovery through physics-informed machine learning.”_
+⭐ _“Accelerating materials discovery and property prediction through physics-informed machine learning interatomic potentials.”_

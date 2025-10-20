@@ -1,4 +1,12 @@
-![My Photo](https://github.com/yusufshaidu/yusufshaidu.github.io/blob/main/likedin_picture.jpeg)
+### 👋 Hi there! I'm **Yusuf Shaidu**
+
+<p align="center">
+  <img src="https://github.com/yusufshaidu/yusufshaidu.github.io/blob/main/likedin_picture.jpeg" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
+</p>
+
+---
+
+%%![My Photo](https://github.com/yusufshaidu/yusufshaidu.github.io/blob/main/likedin_picture.jpeg)
 
 💡 **About Me**
 

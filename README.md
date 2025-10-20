@@ -29,8 +29,12 @@ I develop **scientific software**, including open-source frameworks for atomisti
 ---
 **Mentoring**
 
-**Tools & Expertise**
-| DFT | MLIPs | Python | TensorFlow | PyTorch | ASE | Phonopy | PANNA | BACENET |
+**Expertise**
+- Expert in DFT calculations.
+- Routinely use Python, TensorFlow, ASE, Phonopy, LAMMPS, Quantum Espresso, VASP.
+- Developer of MLIP softwares: PANNA and BACENET
+- Developer of twist-layer code for twisted bilayer systems
+- Development of efficient data generation workflow.
 
 |:----|:------|:--------|:------------|:----------|:-----|:----------|:--------|
 

@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm **Yusuf Shaidu**
+### Hi there! I'm **Yusuf Shaidu**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
@@ -6,7 +6,7 @@
 
 ---
 
-💡 **About Me**
+**About Me**
 
 I’m a researcher specializing in Density Functional Theory (DFT), Machine Learning Interatomic Potentials (MLIPs), Data generation and curation, and ML-accelerated Molecular Dynamics simulations**.  
 My work focuses on bridging **quantum mechanical accuracy** with **machine learning efficiency**, enabling accurate and transferable models for complex materials systems.  
@@ -14,7 +14,7 @@ I develop **scientific software**, including open-source frameworks for atomisti
 
 ---
 
-🧠 **Research Interests**
+ **Research Interests**
 - Investigating properties of materials using _ab initio_ first principles methods (e.g DFT)
 - Development of **Physics-informed machine learning interatomic potentials**
   - Electrostatic models via polarizable charge equilibration schemes
@@ -23,11 +23,13 @@ I develop **scientific software**, including open-source frameworks for atomisti
 - **Software development** for ML interatomic potentials, quantum and molecular modeling for downstream task
 - **ML-accelerated simulations** of molecules, materials and molecular crystals
 - **Inverse design** of materials for energy storage, optoelectronic, carbon capture and others
+- Data analytics
 
 
 ---
+**Mentoring**
 
-🧩 **Tools & Expertise**
+**Tools & Expertise**
 | DFT | MLIPs | Python | TensorFlow | PyTorch | ASE | Phonopy | PANNA | BACENET |
 
 |:----|:------|:--------|:------------|:----------|:-----|:----------|:--------|

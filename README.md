@@ -1,4 +1,5 @@
 ![My Photo](https://github.com/yusufshaidu/yusufshaidu.github.io/blob/main/likedin_picture.jpeg)
+
 💡 **About Me**
 
 I’m a researcher specializing in **Density Functional Theory (DFT)**, **Machine Learning Interatomic Potentials (MLIPs)**, and **ML-accelerated Molecular Dynamics simulations**.  

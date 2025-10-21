@@ -13,6 +13,9 @@ My work focuses on bridging quantum mechanical accuracy with machine learning ef
 I develop scientific software, including open-source frameworks for atomistic simulations and machine learning potentials.
 
 ---
+## Ongoing Projects
+- Physics-informed MLIPs for dielectric response in insulators
+- Robust Optimization techniques for CSP of complex organic molecules
 
 ## Research Interests
 
@@ -30,6 +33,7 @@ I develop scientific software, including open-source frameworks for atomistic si
 
 ---
 ## Mentoring
+I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. Since the beginning of my postdoc, I have mentored several students, many of whose research projects are currently being finalized for publications.
 
 ---
 ## Expertise

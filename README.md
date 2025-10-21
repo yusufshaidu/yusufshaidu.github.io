@@ -36,7 +36,7 @@ I develop **scientific software**, including open-source frameworks for atomisti
 - Developer of twist-layer code for twisted bilayer systems
 - Development of efficient data generation workflow.
 
-**Important Publications**
+**Select Publications** _More on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en)
 - Shaidu Y., Naik M. H., Louie S. G., and Neaton B. J., Transferable Dispersion-Aware Machine Learning Interatomic Potentials for Few-Layer Transition Metal Dichalcogenide Heterostructures, npj Comput Mater 11, 273 (2025)
 - Shaidu Y., Pellegrini F., Kucukbenli E., Lot R., and De Gironcoli S., Incorporating Long-range Electrostatics in Neural Network Potentials via Variational Charge Equilibration from Shortsighted Ingredients, npj Comput Mater 10, 47 (2024).
 - Shaidu Y., Taw E., Smith A., and Neaton B. J., Carbon Capture Phenomena in Metal-Organic Frameworks with Neural Network Potentials, PRX Energy 2, 023005 (2023).

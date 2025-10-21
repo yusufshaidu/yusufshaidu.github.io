@@ -30,8 +30,8 @@ I develop scientific software, including open-source frameworks for atomistic si
 - **Data Analytics:** Extraction of physical insights from high-dimensional simulation and experimental datasets.
   
 ---
-## Mentoring
-I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. Since the beginning of my postdoc, I have mentored several students, many of whose research projects are currently being finalized for publications.
+## Collaboration and Mentorship
+I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. Since the beginning of my postdoc, I have mentored several students, many of whose research projects are currently being finalized for publications. I am always open to new collaborations and mentorship opportunities. Please reach out!
 
 ---
 ## Expertise

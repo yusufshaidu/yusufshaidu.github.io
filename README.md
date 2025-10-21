@@ -16,7 +16,7 @@ I develop scientific software, including open-source frameworks for atomistic si
 ## Ongoing Projects
 - Physics-informed MLIPs for dielectric response in insulators
 - Robust Optimization techniques for CSP of complex organic molecules
-
+---
 ## Research Interests
 
 - **_Ab initio_ materials modeling:** Investigating the structural, electronic, and thermodynamic properties of materials using first-principles methods (e.g., DFT).  
@@ -28,9 +28,7 @@ I develop scientific software, including open-source frameworks for atomistic si
 - **ML-Accelerated Simulations:** Large-scale molecular dynamics and crystal structure prediction using MLIPs.  
 - **Inverse Materials Design:** Machine learning–guided discovery of materials for energy storage, optoelectronic, and carbon capture applications.  
 - **Data Analytics:** Extraction of physical insights from high-dimensional simulation and experimental datasets.
-
-
-
+  
 ---
 ## Mentoring
 I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. Since the beginning of my postdoc, I have mentored several students, many of whose research projects are currently being finalized for publications.

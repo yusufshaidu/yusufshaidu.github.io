@@ -42,6 +42,7 @@ I develop **scientific software**, including open-source frameworks for atomisti
 - Shaidu Y., Taw E., Smith A., and Neaton B. J., Carbon Capture Phenomena in Metal-Organic Frameworks with Neural Network Potentials, PRX Energy 2, 023005 (2023).
 - Shaidu Y., Lot R., Pellegrini F., Kucukbenli E., Kaxiras E., and De Gironcoli S., Systematic Generation of Accurate Network Potentials: The Case of Carbon, npj Comput Mater 7, 52 (2021).
 - Pellegrini F., Lot R., Shaidu Y., and Kucukbenli E., PANNA 2.0: Efficient Neural Network Interatomic Potentials and New Architectures, J. Chem. Phys. 159, 084117 (2023).
+- Shaidu Y., DeSnoo W., Smith A., Taw E., and Neaton B. J., Entropic Effects on Diamine Dynamics and CO₂ Capture in Diamine-Appended Mg₂(dobpdc) Metal–Organic Frameworks, J. Phys. Chem. Lett., 15, 1130–1134 (2024).
 
 ---
 

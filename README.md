@@ -1,5 +1,5 @@
 ### **Yusuf Shaidu**
-Postdoctoral Researcher at the University of California, Berkeley, and Lawrence Berkeley National Laboratory (LBL).<br />
+Postdoctoral Researcher at the University of California, Berkeley, & <br /> Lawrence Berkeley National Laboratory (LBL).<br />
 Contact: yshaidu@berkeley.edu
 
 

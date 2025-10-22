@@ -16,7 +16,7 @@ I develop scientific software, including open-source frameworks for atomistic si
 ---
 ## Ongoing Projects
 - Physics-informed MLIPs for dielectric response in insulators
-- Robust Optimization techniques for CSP of complex organic molecules
+- ML–driven robust optimization for crystal structure prediction of complex organic molecules
   
 ---
 

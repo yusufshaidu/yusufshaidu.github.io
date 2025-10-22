@@ -1,10 +1,8 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" align="left" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
 ### **Yusuf Shaidu**
 Postdoctoral Researcher at the University of California, Berkeley, & <br /> Lawrence Berkeley National Laboratory (LBL).<br />
 Contact: yshaidu@berkeley.edu
-
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
 </p>
 
 ---

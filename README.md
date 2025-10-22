@@ -1,5 +1,5 @@
-## **Yusuf Shaidu**
----
+### **Yusuf Shaidu**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" align="left" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
 

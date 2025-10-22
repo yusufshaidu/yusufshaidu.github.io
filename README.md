@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" align="left" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
-Postdoctoral Researcher at the University of California Berkeley.<br />
+Postdoctoral Researcher at the University of California Berkeley and LBL.<br />
 Contact: yshaidu@berkeley.edu
 </p>
 

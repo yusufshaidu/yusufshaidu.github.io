@@ -38,7 +38,7 @@ In addition, I actively develop scientific software, including open-source frame
 I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. Since the beginning of my postdoc, I have mentored several students, many of whose research projects are currently being finalized for publications. I am always open to new collaborations and mentorship opportunities. Please reach out!
 
 ---
-## Expertise
+## Skills and Softwares
 
  **Electronic Structure & Simulation:** DFT (VASP, QE), LAMMPS, ASE, Phonopy  
  **Machine Learning:** MLIP development with TensorFlow & Python  

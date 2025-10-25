@@ -3,7 +3,8 @@
 <p align="justify">
   <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg" align="right" width="200" style="border-radius: 50%;" alt="Yusuf Shaidu">
 
-Postdoctoral Researcher at the University of California, Berkeley, & <br /> Lawrence Berkeley National Laboratory (LBL).<br />
+Postdoctoral Researcher at the University of California, Berkeley, & <br /> 
+Lawrence Berkeley National Laboratory (LBL). <br />
 Contact: yshaidu@berkeley.edu
 </p>
 
@@ -12,7 +13,7 @@ Contact: yshaidu@berkeley.edu
 
 I am a computational condensed matter physicist whose research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) to study a wide range of materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronic, and quantum materials. My work emphasizes efficient data generation workflows, physics-informed model design, and large-scale, long-timescale MLIP-accelerated molecular dynamics simulations. By bridging the quantum mechanical accuracy of DFT with the computational efficiency of machine learning, I develop accurate and transferable MLIPs that enable predictive modeling and accelerate materials discovery for complex systems.
 
-In addition, I actively develop scientific software, including open-source frameworks for atomistic simulations and MLIP development. I am also open to collaborations and the application of these methods to new material systems.
+In addition, I actively develop scientific software, including open-source frameworks for atomistic simulations and MLIP development. I am also open to collaborations and the application of these methods to new systems.
 
 ---
 ## Ongoing Projects

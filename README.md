@@ -28,7 +28,8 @@ In addition, I actively develop scientific software, including open-source frame
 - **Physics-informed Machine Learning Interatomic Potentials (MLIPs):**  
   - Incorporation of electrostatics via polarizable charge equilibration schemes  
   - Development of efficient van der Waals interaction models  
-  - Computation of dielectric properties of insulating materials  
+  - Computation of dielectric properties of insulating materials
+- **Efficient MLIP data generation:** I design active learning–based workflows that accelerate and automate the generation of diverse and informative training datasets for MLIPs.
 - **Software Development:** Design and implementation of tools for MLIPs, quantum, and molecular simulations.  
 - **ML-Accelerated Simulations:** Large-scale molecular dynamics and crystal structure prediction using MLIPs.  
 - **Inverse Materials Design:** Machine learning–guided discovery of materials for energy storage, optoelectronic, and carbon capture applications.  

@@ -13,7 +13,7 @@ Contact: yshaidu@berkeley.edu
 
 I am a computational condensed matter physicist. My research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) to investigate the properties of a broad range of materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronic, and quantum materials. My research work includes the development of efficient DFT data generation workflow for training MLIPs, physics-informed ML models, and large-scale, long-timescale MLIP-accelerated molecular dynamics and metadynamics simulations. I strive to bridge the quantum mechanical accuracy of DFT with the computational efficiency of neural network architectures. Over the past few years, I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
 
-I also am an expert data scientist. I am currently focused on deepening my understanding of data structures and algorithms using Python, enhancing my ability to design efficient, scalable, and high-performance data-driven solutions.
+I am also an expert data scientist. I am currently focused on deepening my understanding of data structures and algorithms using Python, enhancing my ability to design efficient, scalable, and high-performance data-driven solutions.
 
 I am actively developing and contributing to scientific softwares, including open-source frameworks for atomistic simulations and MLIP development ([PANNA](https://pubs.aip.org/aip/jcp/article/159/8/084117/2908459/PANNA-2-0-Efficient-neural-network-interatomic)). I am open to collaborations and the application of these methods to new challenging and interesting systems.
 

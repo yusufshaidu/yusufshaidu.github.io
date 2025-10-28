@@ -15,7 +15,7 @@ I am a computational condensed matter physicist. My research focus on the develo
 
 Moreover, I am an expert data scientist. I am currently focused on deepening my understanding of data structures and algorithms using Python, enhancing my ability to design efficient, scalable, and high-performance data-driven solutions.
 
-In addition, I am actively developing and contributing scientific software, including open-source frameworks for atomistic simulations and MLIP development. I am also open to collaborations and the application of these methods to new challenging systems.
+In addition, I am actively developing and contributing scientific software, including open-source frameworks for atomistic simulations and MLIP development. I am open to collaborations and the application of these methods to new challenging systems.
 
 ---
 ## Ongoing Projects

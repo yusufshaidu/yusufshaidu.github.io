@@ -44,7 +44,7 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 ---
 ## Skills and Softwares
 
- **Electronic Structure & Simulation:** DFT (VASP, QE), LAMMPS, ASE, Phonopy  
+ **Electronic Structure & Simulation:** DFT (VASP, Quantum Espresso), LAMMPS, ASE, Phonopy  
  **Machine Learning:** MLIP development with TensorFlow, Pytorch & Python  
  **Software:** Developer of PANNA, BACENET, and twist-layer toolkit  
  **Automation:** Efficient data generation & active learning pipelines
@@ -66,5 +66,8 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 - 🧑‍💻 [GitHub](https://github.com/yusufshaidu)
 
 ---
-
+## Paper highlights
+- My paper on systematic genaration of training dataset for MLIPs was highlighted by [MAX](https://max-centre.eu/about-max/) [click here](https://max-centre.eu/generating-neural-network-potentials) to view highlight.
+- My paper on MLIP for TMD heterostructure is scheduled for highlights at the material science department of the Lawrence Berkeley National Lab (LBL).
+  
 ⭐ _“Accelerating materials discovery and property prediction through physics-informed machine learning interatomic potentials.”_

@@ -59,6 +59,10 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 - Shaidu Y., DeSnoo W., Smith A., Taw E., and Neaton B. J., **Entropic Effects on Diamine Dynamics and CO₂ Capture in Diamine-Appended Mg₂(dobpdc) Metal–Organic Frameworks**, J. Phys. Chem. Lett., 15, 1130–1134 (2024).
 
 ---
+## Paper highlights
+- My paper on systematic genaration of training dataset for MLIPs was highlighted by [MAX](https://max-centre.eu/about-max/) [click here](https://max-centre.eu/generating-neural-network-potentials) to view highlight.
+- My paper on MLIP for TMD heterostructure is scheduled for highlights at the material science department of the Lawrence Berkeley National Lab (LBL).
+---
 
 ## Connect with me
 - 🌐 [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en)
@@ -66,8 +70,5 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 - 🧑‍💻 [GitHub](https://github.com/yusufshaidu)
 
 ---
-## Paper highlights
-- My paper on systematic genaration of training dataset for MLIPs was highlighted by [MAX](https://max-centre.eu/about-max/) [click here](https://max-centre.eu/generating-neural-network-potentials) to view highlight.
-- My paper on MLIP for TMD heterostructure is scheduled for highlights at the material science department of the Lawrence Berkeley National Lab (LBL).
   
 ⭐ _“Accelerating materials discovery and property prediction through physics-informed machine learning interatomic potentials.”_

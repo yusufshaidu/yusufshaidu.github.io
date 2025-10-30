@@ -9,9 +9,6 @@ Contact: yshaidu@berkeley.edu
 </p>
 
 ---
-## Paper highlights
-- My paper on systematic genaration of training dataset for MLIPs was highlighted by [MAX](https://max-centre.eu/about-max/) [click here](https://max-centre.eu/generating-neural-network-potentials) to view highlight.
-- My paper on MLIP for TMD heterostructure is scheduled for highlights at the material science department of the Lawrence Berkeley National Lab (LBL).
 
 I am a computational condensed matter physicist. My research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) to investigate the properties of a broad range of materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronic, and quantum materials. My research work includes the development of efficient DFT data generation workflow for training MLIPs, physics-informed ML models, and large-scale, long-timescale MLIP-accelerated molecular dynamics and metadynamics simulations. I strive to bridge the quantum mechanical accuracy of DFT with the computational efficiency of neural network architectures. Over the past few years, I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
 
@@ -64,6 +61,7 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 ## Paper highlights
 - My paper on systematic genaration of training dataset for MLIPs was highlighted by [MAX](https://max-centre.eu/about-max/) . The highlight can be found [here](https://max-centre.eu/generating-neural-network-potentials).
 - My paper on MLIP for TMD heterostructure is scheduled for highlights at the material science department of the Lawrence Berkeley National Lab (LBL).
+
 ---
 
 ## Connect with me

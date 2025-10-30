@@ -59,8 +59,8 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 
 ---
 ## Paper highlights
-- My paper on systematic genaration of training dataset for MLIPs was highlighted by [MAX](https://max-centre.eu/about-max/) . The highlight can be found [here](https://max-centre.eu/generating-neural-network-potentials).
-- My paper on MLIP for TMD heterostructure is scheduled for highlights at the material science department of the Lawrence Berkeley National Lab (LBL).
+- My work on the systematic generation of training datasets for MLIPs was featured in the [MAX Centre highlights](https://max-centre.eu/about-max/). You can find the highlight [here](https://max-centre.eu/generating-neural-network-potentials).
+- My research on machine learning interatomic potentials for TMD heterostructures is scheduled to be featured in the Materials Science Division highlights at the Lawrence Berkeley National Laboratory (LBNL).
 
 ---
 

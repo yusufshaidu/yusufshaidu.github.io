@@ -24,28 +24,24 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 
 ## Research Interests
 
-- **_Ab initio_ materials modeling:** Investigating the structural, electronic, and thermodynamic properties of materials using DFT.  
-- **Physics-informed GNN:**  
-  - Incorporation of electrostatics via polarizable charge equilibration schemes  
-  - Development of efficient van der Waals interaction models  
-  - Computation of dielectric properties of insulating materials
-- **Efficient MLIP data generation:** I design active learning–based workflows that accelerate and automate the generation of diverse and informative training datasets for MLIPs.
-- **Software Development:** Design and implementation of tools for MLIPs, quantum, and molecular simulations.  
-- **MLIP-Accelerated Simulations:** Large-scale molecular dynamics and crystal structure prediction using MLIPs.  
-- **Inverse Materials Design:** MLIP–guided discovery of materials for energy storage, optoelectronic, and carbon capture applications.  
-- **Data Analytics:** Extraction of physical insights from high-dimensional simulation and experimental datasets.
+- **_Ab initio_ materials modeling:** structural, electronic, optical and thermodynamic properties of materials using DFT.  
+- **Physics-informed GNN: polarizable charge equilibration schemes, van der Waals interaction and computation of dielectric properties of insulating materials.
+- **Efficient traing data generation strategies**
+- **Software development for materials science and physics**  
+- **MLIP-accelerated atomistic simulations**
+- **Materials discovery**
   
 ---
 ## Collaboration and Mentorship
-I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. I have mentored several students, many of whose research projects are currently being finalized for publications. I am always open to new collaborations and mentorship opportunities. Please reach out!
+I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs development and application in materials science and physics. I am always open to new collaborations and mentorship opportunities. Please reach out!
 
 ---
 ## Skills and Softwares
 
- **Electronic Structure and Simulation:** DFT (VASP, Quantum Espresso), LAMMPS, ASE, Phonopy  
- **Machine Learning:** MLIP development with TensorFlow, Pytorch and Python  
- **Software:** Developer of PANNA, BACENET, and twist-layer toolkit  
- **Automation:** Efficient data generation & active learning pipelines
+ **Atomistic simulation softwares :** VASP, Quantum Espresso, Orca, LAMMPS, ASE, Phonopy  
+ **Machine learning machinary:** Python, TensorFlow, Pytorch, MACE, e3nn  
+ **ML software:** MACE, e3nn, PANNA, BACENET
+ **Others** twist-layers toolkit, sarss (simulated annealing workflow)
 ---
 
 ## Select Publications (_more on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))

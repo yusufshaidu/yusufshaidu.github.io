@@ -38,8 +38,8 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 ---
 ## Skills and Softwares
 
- **Atomistic simulation softwares :** VASP, Quantum Espresso, Orca, LAMMPS, ASE, Phonopy  
- **Machine learning machinary:** Python, TensorFlow, Pytorch, MACE, e3nn  
+ **Atomistic simulation softwares:** VASP, Quantum Espresso, Orca, LAMMPS, ASE, Phonopy  
+ **Machine learning machinary:** Python, TensorFlow, Pytorch  
  **ML software:** MACE, e3nn, PANNA, BACENET
  **Others** twist-layers toolkit, sarss (simulated annealing workflow)
 ---

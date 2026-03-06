@@ -10,41 +10,40 @@ Contact: yshaidu@berkeley.edu
 
 ---
 
-I am a computational condensed matter physicist. My research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) to investigate the properties of a broad range of materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronic, and quantum materials. My research work includes the development of efficient DFT data generation workflow for training MLIPs, physics-informed ML models, and large-scale, long-timescale MLIP-accelerated molecular dynamics and metadynamics simulations. I strive to bridge the quantum mechanical accuracy of DFT with the computational efficiency of neural network architectures. Over the past few years, I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
+I am a computational condensed matter physicist. My research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) based on graph neural networks (GNNs) to investigate the properties of complex energy materials, including energy storage, semiconductors, ferroelectrics, optoelectronic, and quantum materials. 
+I develop efficient data generation workflow for training MLIPs and physics-informed GNN models. Addionally, I perform long timescale MLIP-accelerated MD and metadynamics simulations using high-performance supercomputers (HPC) to study chemical processes in complex materials. I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
 
-I am also an expert data scientist. I am currently focused on deepening my understanding of data structures and algorithms using Python, enhancing my ability to design efficient, scalable, and high-performance data-driven solutions.
-
-I am actively developing and contributing to scientific softwares, including open-source frameworks for atomistic simulations and MLIP development ([PANNA](https://pubs.aip.org/aip/jcp/article/159/8/084117/2908459/PANNA-2-0-Efficient-neural-network-interatomic)). I am open to collaborations and the application of these methods to new challenging and interesting systems.
+Further more, I develop and contribute to scientific softwares. I am open to collaborations.
 
 ---
 ## Ongoing Projects
-- Physics-informed MLIPs for dielectric response in insulators
-- ML–driven robust optimization for crystal structure prediction of complex organic molecules
+- Physics-informed equivariant GNN to predict dielectric response in insulators.
+- ML–driven robust optimization for crystal structure prediction of complex organic molecules.
   
 ---
 
 ## Research Interests
 
-- **_Ab initio_ materials modeling:** Investigating the structural, electronic, and thermodynamic properties of materials using first-principles methods (e.g., DFT).  
-- **Physics-informed Machine Learning Interatomic Potentials (MLIPs):**  
+- **_Ab initio_ materials modeling:** Investigating the structural, electronic, and thermodynamic properties of materials using DFT.  
+- **Physics-informed GNN:**  
   - Incorporation of electrostatics via polarizable charge equilibration schemes  
   - Development of efficient van der Waals interaction models  
   - Computation of dielectric properties of insulating materials
 - **Efficient MLIP data generation:** I design active learning–based workflows that accelerate and automate the generation of diverse and informative training datasets for MLIPs.
 - **Software Development:** Design and implementation of tools for MLIPs, quantum, and molecular simulations.  
-- **ML-Accelerated Simulations:** Large-scale molecular dynamics and crystal structure prediction using MLIPs.  
-- **Inverse Materials Design:** Machine learning–guided discovery of materials for energy storage, optoelectronic, and carbon capture applications.  
+- **MLIP-Accelerated Simulations:** Large-scale molecular dynamics and crystal structure prediction using MLIPs.  
+- **Inverse Materials Design:** MLIP–guided discovery of materials for energy storage, optoelectronic, and carbon capture applications.  
 - **Data Analytics:** Extraction of physical insights from high-dimensional simulation and experimental datasets.
   
 ---
 ## Collaboration and Mentorship
-I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. Since the beginning of my postdoc, I have mentored several students, many of whose research projects are currently being finalized for publications. I am always open to new collaborations and mentorship opportunities. Please reach out!
+I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs, and MD simulations. I have mentored several students, many of whose research projects are currently being finalized for publications. I am always open to new collaborations and mentorship opportunities. Please reach out!
 
 ---
 ## Skills and Softwares
 
- **Electronic Structure & Simulation:** DFT (VASP, Quantum Espresso), LAMMPS, ASE, Phonopy  
- **Machine Learning:** MLIP development with TensorFlow, Pytorch & Python  
+ **Electronic Structure and Simulation:** DFT (VASP, Quantum Espresso), LAMMPS, ASE, Phonopy  
+ **Machine Learning:** MLIP development with TensorFlow, Pytorch and Python  
  **Software:** Developer of PANNA, BACENET, and twist-layer toolkit  
  **Automation:** Efficient data generation & active learning pipelines
 ---

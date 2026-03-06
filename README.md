@@ -42,6 +42,7 @@ I am passionate about mentoring undergraduate and graduate students in the funda
  - **Machine learning machinary:** Python, TensorFlow, Pytorch  
  - **ML software:** MACE, e3nn, PANNA, BACENET
  - **Others:** twist-layers toolkit, sarss (simulated annealing workflow)
+
 ---
 
 ## Select Publications (_more on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))

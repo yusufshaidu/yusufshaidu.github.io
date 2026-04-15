@@ -14,12 +14,13 @@ I am a computational condensed matter physicist. My research focuses on the deve
 I develop efficient data generation workflow for training MLIPs and physics-informed GNN models. Addionally, I perform long timescale MLIP-accelerated MD and metadynamics simulations using high-performance supercomputers (HPC) to study chemical processes in complex materials. I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
 
 Further more, I develop and contribute to scientific softwares. I am open to collaborations.
-
 ---
-## Ongoing Projects
-- Physics-informed equivariant GNN to predict dielectric response in insulators.
-- ML–driven robust optimization for crystal structure prediction of complex organic molecules.
-  
+## Key Contributions to MLIP Development
+- **Pioneered electrostatic-aware MLIPs** by incorporating charge equilibration into neural network potentials (Ref [2])
+- **First to build MLIPs from chemical composition alone** using a workflow that combine CSP, DFT, MD, and statistical data curation (Ref [4])
+- **Developed the first MLIPs for amine-appended MOFs** enabling predictive CO$_2$ adsorption studies and amine dynamics (Ref [3 & 6])
+- **Demonstrated data-efficient MLIPs for twisted TMDs** trained from small-unit-cell data via MD and metadynamics avoiding DFT calcultions on large Moire superlattice (Ref [1])
+- **Developed PANNA and BACENET** for easy and fast deployment of MLIPs accounding for long range interation
 ---
 
 ## Research Interests
@@ -27,7 +28,9 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 - **_Ab initio_ materials modeling:** structural, electronic, optical and thermodynamic properties of materials using DFT.  
 - **Physics-informed GNN:** polarizable charge equilibration schemes, van der Waals interaction and computation of dielectric properties of insulating materials.
 - **Efficient traing data generation strategies**
-- **Software development for materials science and physics**  
+- **Software development for materials science and physics**
+- **Efficient strategies to finetune foundation models**
+- **ML research and engineering**
 - **MLIP-accelerated atomistic simulations**
 - **Materials discovery**
   
@@ -46,12 +49,12 @@ I am passionate about mentoring undergraduate and graduate students in the funda
 ---
 
 ## Select Publications (_more on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))
-- Shaidu Y., Naik M. H., Louie S. G., and Neaton B. J., **Transferable Dispersion-Aware Machine Learning Interatomic Potentials for Few-Layer Transition Metal Dichalcogenide Heterostructures**, npj Comput Mater 11, 273 (2025)
-- Shaidu Y., Pellegrini F., Kucukbenli E., Lot R., and De Gironcoli S., **Incorporating Long-range Electrostatics in Neural Network Potentials via Variational Charge Equilibration from Shortsighted Ingredients**, npj Comput Mater 10, 47 (2024).
-- Shaidu Y., Taw E., Smith A., and Neaton B. J., **Carbon Capture Phenomena in Metal-Organic Frameworks with Neural Network Potentials**, PRX Energy 2, 023005 (2023).
-- Shaidu Y., Lot R., Pellegrini F., Kucukbenli E., Kaxiras E., and De Gironcoli S., **Systematic Generation of Accurate Network Potentials: The Case of Carbon**, npj Comput Mater 7, 52 (2021).
-- Pellegrini F., Lot R., Shaidu Y., and Kucukbenli E., **PANNA 2.0: Efficient Neural Network Interatomic Potentials and New Architectures**, J. Chem. Phys. 159, 084117 (2023).
-- Shaidu Y., DeSnoo W., Smith A., Taw E., and Neaton B. J., **Entropic Effects on Diamine Dynamics and CO₂ Capture in Diamine-Appended Mg₂(dobpdc) Metal–Organic Frameworks**, J. Phys. Chem. Lett., 15, 1130–1134 (2024).
+[1] Shaidu Y., Naik M. H., Louie S. G., and Neaton B. J., **Transferable Dispersion-Aware Machine Learning Interatomic Potentials for Few-Layer Transition Metal Dichalcogenide Heterostructures**, npj Comput Mater 11, 273 (2025)
+[2] Shaidu Y., Pellegrini F., Kucukbenli E., Lot R., and De Gironcoli S., **Incorporating Long-range Electrostatics in Neural Network Potentials via Variational Charge Equilibration from Shortsighted Ingredients**, npj Comput Mater 10, 47 (2024).
+[3] Shaidu Y., Taw E., Smith A., and Neaton B. J., **Carbon Capture Phenomena in Metal-Organic Frameworks with Neural Network Potentials**, PRX Energy 2, 023005 (2023).
+[4] Shaidu Y., Lot R., Pellegrini F., Kucukbenli E., Kaxiras E., and De Gironcoli S., **Systematic Generation of Accurate Network Potentials: The Case of Carbon**, npj Comput Mater 7, 52 (2021).
+[5] Pellegrini F., Lot R., Shaidu Y., and Kucukbenli E., **PANNA 2.0: Efficient Neural Network Interatomic Potentials and New Architectures**, J. Chem. Phys. 159, 084117 (2023).
+[6] Shaidu Y., DeSnoo W., Smith A., Taw E., and Neaton B. J., **Entropic Effects on Diamine Dynamics and CO₂ Capture in Diamine-Appended Mg₂(dobpdc) Metal–Organic Frameworks**, J. Phys. Chem. Lett., 15, 1130–1134 (2024).
 
 ---
 ## Paper highlights

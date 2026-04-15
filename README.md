@@ -36,6 +36,7 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 - ML research and engineering
 - MLIP-accelerated atomistic simulations
 - Materials discovery
+- Applying electrostatics-aware MLIPs to biological systems to enable accurate simulations of how ions move through proteins, how enzymes work, and how molecules interact.
   
 ---
 ## Collaboration and Mentorship

@@ -28,14 +28,14 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 
 ## Research Interests
 
-- _Ab initio materials modeling:_ structural, electronic, optical and thermodynamic properties of materials using DFT.  
-- _Physics-informed GNN:_ polarizable charge equilibration schemes, van der Waals interaction and computation of dielectric properties of insulating materials.
-- _Efficient traing data generation strategies_
-- _Software development for materials science and physics_
-- _Efficient strategies to finetune foundation models_
-- _ML research and engineering_
-- _MLIP-accelerated atomistic simulations_
-- _Materials discovery_
+- _Ab initio_ materials modeling: structural, electronic, optical and thermodynamic properties of materials using DFT.  
+- Physics-informed GNN: polarizable charge equilibration schemes, van der Waals interaction and computation of dielectric properties of insulating materials.
+- Efficient traing data generation strategies
+- Software development for materials science and physics
+- Efficient strategies to finetune foundation models
+- ML research and engineering
+- MLIP-accelerated atomistic simulations
+- Materials discovery
   
 ---
 ## Collaboration and Mentorship

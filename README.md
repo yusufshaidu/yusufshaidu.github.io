@@ -14,13 +14,16 @@ I am a computational condensed matter physicist. My research focuses on the deve
 I develop efficient data generation workflow for training MLIPs and physics-informed GNN models. Addionally, I perform long timescale MLIP-accelerated MD and metadynamics simulations using high-performance supercomputers (HPC) to study chemical processes in complex materials. I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
 
 Further more, I develop and contribute to scientific softwares. I am open to collaborations.
+
 ---
+
 ## Key Contributions to MLIP Development
 - **Pioneered electrostatic-aware MLIPs** by incorporating charge equilibration into neural network potentials (Ref [2])
 - **First to build MLIPs from chemical composition alone** using a workflow that combine CSP, DFT, MD, and statistical data curation (Ref [4])
 - **Developed the first MLIPs for amine-appended MOFs** enabling predictive CO$_2$ adsorption studies and amine dynamics (Ref [3 & 6])
 - **Demonstrated data-efficient MLIPs for twisted TMDs** trained from small-unit-cell data via MD and metadynamics avoiding DFT calcultions on large Moire superlattice (Ref [1])
 - **Developed PANNA and BACENET** for easy and fast deployment of MLIPs accounding for long range interation
+  
 ---
 
 ## Research Interests

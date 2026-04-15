@@ -22,7 +22,7 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 - **First to build MLIPs from chemical composition alone** using a workflow that combine CSP, DFT, MD, and statistical data curation (Ref [4])
 - **Developed the first MLIPs for amine-appended MOFs** enabling accelerated predictive CO2 adsorption studies and amine dynamics (Ref [3 & 6])
 - **Demonstrated data-efficient MLIPs for twisted TMDs** trained from small-unit-cell data via MD and metadynamics avoiding DFT calcultions on large Moire superlattice (Ref [1])
-- **Developed PANNA and BACENET** for easy and fast deployment of MLIPs accounting for long range interaction
+- **Developed PANNA and BACENET** for easy and fast deployment of MLIPs accounting for long range interactions
   
 ---
 

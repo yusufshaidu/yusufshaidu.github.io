@@ -9,3 +9,32 @@ plugins:
 
 # Required for GitHub Pages
 minimal_mistakes_skin: default
+
+# Navigation
+header:
+  overlay_image: /assets/images/header-bg.jpg
+  overlay_filter: 0.5
+
+# Site settings
+logo: /assets/images/logo.png
+masthead_title: "Yusuf Shaidu"
+breadcrumbs: true
+
+# Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yshaidu@berkeley.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yusufshaidu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yusuf-shaidu-73b170a2"
+
+# Minimal Mistakes skin customization
+minimal_mistakes_skin: "default"

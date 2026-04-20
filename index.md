@@ -3,83 +3,97 @@ layout: home
 title: Home
 ---
 
-<div style="text-align: justify;">
+<div>
 
-  <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg"
-       style="float: right; margin-left: 20px; border-radius: 50%;"
-       width="200"
-       alt="Yusuf Shaidu">
+<img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg"
+     style="float: right; margin-left: 20px; border-radius: 50%;"
+     width="200"
+     alt="Yusuf Shaidu">
 
-  <h1 style="margin-bottom: 0;">Yusuf Shaidu</h1>
+<h1 style="margin-bottom: 0;">Yusuf Shaidu</h1>
 
-  <p style="font-size: 1.1em; margin-top: 0;">
-    Postdoctoral Researcher<br>
-    University of California, Berkeley &<br>
-    Lawrence Berkeley National Laboratory (LBL)
-  </p>
+<p style="font-size: 1.1em; margin-top: 0;">
+Postdoctoral Researcher<br>
+University of California, Berkeley &<br>
+Lawrence Berkeley National Laboratory
+</p>
 
-  <p>
-    📧 <a href="mailto:yshaidu@berkeley.edu">yshaidu@berkeley.edu</a>
-    🔗 <a href="https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en">Google Scholar</a> | 
-      <a href="https://github.com/yusufshaidu">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/yusuf-shaidu-73b170a2">LinkedIn</a>
-  </p>
+<p>
+📧 <a href="mailto:yshaidu@berkeley.edu">yshaidu@berkeley.edu</a><br>
+🔗 <a href="https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en">Google Scholar</a> | 
+<a href="https://github.com/yusufshaidu">GitHub</a> | 
+<a href="https://www.linkedin.com/in/yusuf-shaidu-73b170a2">LinkedIn</a>
+</p>
 
 </div>
 
-I am a computational condensed matter physicist. My research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) based on graph neural networks (GNNs) to investigate the properties of complex energy materials, including energy storage, semiconductors, ferroelectrics, optoelectronic, and quantum materials. 
-I develop efficient data generation workflow for training MLIPs and physics-informed GNN models. Addionally, I perform long timescale MLIP-accelerated MD and metadynamics simulations using high-performance supercomputers (HPC) to study chemical processes in complex materials. I have developed accurate and transferable MLIPs that enable predictive modeling of complex materials and accelerate materials discovery.
-
-Further more, I develop and contribute to scientific softwares. I am open to collaborations.
-
----
-  
-## Key Contributions to MLIP Development
-- **Pioneered electrostatic-aware MLIPs** by incorporating charge equilibration into neural network potentials (Ref [2])
-- **First to build MLIPs from chemical composition alone** using a workflow that combine CSP, DFT, MD, and statistical data curation (Ref [4])
-- **Developed the first MLIPs for amine-appended MOFs** enabling accelerated predictive CO2 adsorption studies and amine dynamics (Ref [3 & 6])
-- **Demonstrated data-efficient MLIPs for twisted TMDs** trained from small-unit-cell data via MD and metadynamics avoiding DFT calcultions on large Moire superlattice (Ref [1])
-- **Developed PANNA and BACENET** for easy and fast deployment of MLIPs accounting for long range interactions
-  
 ---
 
-## Research Interests
+## 🧠 Research Overview
 
-- _Ab initio_ materials modeling: structural, electronic, optical and thermodynamic properties of materials using DFT.  
-- Physics-informed GNN: polarizable charge equilibration schemes, van der Waals interaction and computation of dielectric properties of insulating materials.
-- Efficient traing data generation strategies
-- Software development for materials science and physics
-- Efficient strategies to finetune foundation models
-- ML research and engineering
-- MLIP-accelerated atomistic simulations
-- Materials discovery
-- Applying electrostatics-aware MLIPs to biological systems to enable accurate simulations of how ions move through proteins, how enzymes work, and how molecules interact.
+I am a computational condensed matter physicist specializing in **Density Functional Theory (DFT)** and **machine learning interatomic potentials (MLIPs)** based on graph neural networks. My work focuses on predictive modeling of complex energy materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronic, and quantum materials.
 
----
-## Collaboration and Mentorship
-I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs development and application in materials science and physics. I am always open to new collaborations and mentorship opportunities. Please reach out!
-
----
-## Skills and Softwares
-
- - **Atomistic simulation softwares:** VASP, Quantum Espresso, Orca, LAMMPS, ASE, Phonopy  
- - **Machine learning machinary:** Python, TensorFlow, Pytorch  
- - **ML software:** MACE, e3nn, PANNA, BACENET
- - **Others:** twist-layers toolkit, sarss (simulated annealing workflow)
+I develop **efficient data generation workflows**, **physics-informed ML models**, and perform **large-scale MLIP-accelerated molecular dynamics and enhanced sampling simulations** on high-performance computing platforms to study chemical processes in complex systems.
 
 ---
 
-## Select Publications (_more on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))
-[1] Shaidu Y., Naik M. H., Louie S. G., and Neaton B. J., **Transferable Dispersion-Aware Machine Learning Interatomic Potentials for Few-Layer Transition Metal Dichalcogenide Heterostructures**, npj Comput Mater 11, 273 (2025)
-[2] Shaidu Y., Pellegrini F., Kucukbenli E., Lot R., and De Gironcoli S., **Incorporating Long-range Electrostatics in Neural Network Potentials via Variational Charge Equilibration from Shortsighted Ingredients**, npj Comput Mater 10, 47 (2024).
-[3] Shaidu Y., Taw E., Smith A., and Neaton B. J., **Carbon Capture Phenomena in Metal-Organic Frameworks with Neural Network Potentials**, PRX Energy 2, 023005 (2023).
-[4] Shaidu Y., Lot R., Pellegrini F., Kucukbenli E., Kaxiras E., and De Gironcoli S., **Systematic Generation of Accurate Network Potentials: The Case of Carbon**, npj Comput Mater 7, 52 (2021).
-[5] Pellegrini F., Lot R., Shaidu Y., and Kucukbenli E., **PANNA 2.0: Efficient Neural Network Interatomic Potentials and New Architectures**, J. Chem. Phys. 159, 084117 (2023).
-[6] Shaidu Y., DeSnoo W., Smith A., Taw E., and Neaton B. J., **Entropic Effects on Diamine Dynamics and CO₂ Capture in Diamine-Appended Mg₂(dobpdc) Metal–Organic Frameworks**, J. Phys. Chem. Lett., 15, 1130–1134 (2024).
+## 🚀 Key Contributions
+
+- Pioneered **electrostatics-aware MLIPs** via charge equilibration  
+- Developed **MLIPs from chemical composition alone** using CSP + DFT + MD workflows  
+- Built the **first MLIPs for amine-appended MOFs** for CO₂ capture  
+- Demonstrated **data-efficient MLIPs for twisted TMDs** using small-unit-cell training  
+- Developed **PANNA and BACENET** for scalable MLIP deployment  
 
 ---
-## Paper highlights
-- My work on the systematic generation of training datasets for MLIPs was featured in the [MAX Centre highlights](https://max-centre.eu/about-max/). You can find the highlight [here](https://max-centre.eu/generating-neural-network-potentials).
-- My research on machine learning interatomic potentials for TMD heterostructures is scheduled to be featured in the Materials Science Division highlights at the Lawrence Berkeley National Laboratory (LBNL).
+
+## 🔬 Research Interests
+
+- _Ab initio_ materials modeling (DFT)  
+- Physics-informed GNNs and electrostatics  
+- Data-efficient MLIP training strategies  
+- MLIP-accelerated atomistic simulations  
+- Materials discovery and design  
+- Scientific software development  
+- Applications of MLIPs to biological systems  
 
 ---
+
+## 🤝 Collaboration & Mentorship
+
+I am passionate about mentoring students in DFT and MLIP development and applications. I am always open to collaborations across materials science, chemistry, and machine learning.
+
+---
+
+## 🛠️ Skills
+
+**Atomistic Simulation:**  
+VASP, Quantum ESPRESSO, ORCA, LAMMPS, ASE, Phonopy  
+
+**Machine Learning:**  
+Python, TensorFlow, PyTorch  
+
+**ML Frameworks:**  
+MACE, e3nn, PANNA, BACENET  
+
+**Other Tools:**  
+twist-layer toolkit, SA-RSS workflow  
+
+---
+
+## 📚 Selected Publications  
+(_see full list on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))
+
+1. **Dispersion-Aware MLIPs for TMDs**, npj Comput Mater (2025)  
+2. **Electrostatics in Neural Network Potentials**, npj Comput Mater (2024)  
+3. **MLIPs for Carbon Capture in MOFs**, PRX Energy (2023)  
+4. **Systematic MLIP Data Generation**, npj Comput Mater (2021)  
+5. **PANNA 2.0**, J. Chem. Phys. (2023)  
+6. **Diamine Dynamics in MOFs**, J. Phys. Chem. Lett. (2024)  
+
+---
+
+## 🌟 Highlights
+
+- Featured by MAX Centre for MLIP dataset generation work  
+- Upcoming highlight at Lawrence Berkeley National Laboratory  

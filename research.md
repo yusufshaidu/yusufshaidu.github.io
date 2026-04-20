@@ -2,9 +2,11 @@
 layout: single
 title: Research
 permalink: /research/
+author_profile: false
+toc: true
 ---
 
-## 🚀 Research Highlights
+## Research Highlights
 
 - Pioneered **electrostatics-aware MLIPs** via charge equilibration  
 - Developed **MLIPs from chemical composition alone** using CSP + DFT + MD workflows  

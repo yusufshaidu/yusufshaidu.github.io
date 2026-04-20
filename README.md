@@ -16,8 +16,6 @@ I develop efficient data generation workflow for training MLIPs and physics-info
 Further more, I develop and contribute to scientific softwares. I am open to collaborations.
 
 ---
-<div style="display: flex; gap: 20px;">
-<div>
   
 ## Key Contributions to MLIP Development
 - **Pioneered electrostatic-aware MLIPs** by incorporating charge equilibration into neural network potentials (Ref [2])
@@ -27,8 +25,7 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 - **Developed PANNA and BACENET** for easy and fast deployment of MLIPs accounting for long range interactions
   
 ---
-</div>
-</div>
+
 ## Research Interests
 
 - _Ab initio_ materials modeling: structural, electronic, optical and thermodynamic properties of materials using DFT.  
@@ -40,13 +37,11 @@ Further more, I develop and contribute to scientific softwares. I am open to col
 - MLIP-accelerated atomistic simulations
 - Materials discovery
 - Applying electrostatics-aware MLIPs to biological systems to enable accurate simulations of how ions move through proteins, how enzymes work, and how molecules interact.
-</div>
-</div>
+
 ---
 ## Collaboration and Mentorship
 I am passionate about mentoring undergraduate and graduate students in the fundamentals of DFT, MLIPs development and application in materials science and physics. I am always open to new collaborations and mentorship opportunities. Please reach out!
-</div>
-</div>
+
 ---
 ## Skills and Softwares
 
@@ -56,8 +51,7 @@ I am passionate about mentoring undergraduate and graduate students in the funda
  - **Others:** twist-layers toolkit, sarss (simulated annealing workflow)
 
 ---
-</div>
-</div>
+
 ## Select Publications (_more on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))
 [1] Shaidu Y., Naik M. H., Louie S. G., and Neaton B. J., **Transferable Dispersion-Aware Machine Learning Interatomic Potentials for Few-Layer Transition Metal Dichalcogenide Heterostructures**, npj Comput Mater 11, 273 (2025)
 [2] Shaidu Y., Pellegrini F., Kucukbenli E., Lot R., and De Gironcoli S., **Incorporating Long-range Electrostatics in Neural Network Potentials via Variational Charge Equilibration from Shortsighted Ingredients**, npj Comput Mater 10, 47 (2024).

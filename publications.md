@@ -1,3 +1,9 @@
+---
+layout: single
+title: Publications
+permalink: /publications/
+---
+
 ## 📚 Selected Publications  
 (_see full list on_ [Google Scholar](https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en))
 

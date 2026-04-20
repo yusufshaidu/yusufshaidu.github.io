@@ -19,10 +19,10 @@ I specialize in **computational materials science**, combining **Density Functio
 
 - **Composition-to-MLIP Workflow** – Developed automated pipelines that generate MLIPs from chemical composition alone using crystal structure prediction (CSP) + DFT + MD
 
-- **Amine-Appended MOFs** – Built the first MLIPs for amine-functionalized metal-organic frameworks, enabling efficient CO₂ capture simulations
+- **Amine-Appended MOFs** – developed the first MLIPs for amine-functionalized metal-organic frameworks, enabling efficient carbon capture simulations in novel materials
 
-- **Twisted TMDs & Moiré Systems** – Introduced data-efficient DFT training strategies for twisted transition metal dichalcogenides, dramatically reducing computational costs for moiré heterostructures
-
+- **Twisted TMDs & Moiré Systems** – Introduced efficient DFT data-generation strategies for twisted transition metal dichalcogenides, significantly reducing the computational cost of training MLIPs and simulating moiré heterostructures.
+  
 - **PANNA & BACENET** – Developed scalable software frameworks for deploying MLIPs in production-scale simulations
 
 ---
@@ -38,14 +38,6 @@ I specialize in **computational materials science**, combining **Density Functio
 | **Software** | Scientific computing, algorithm development, reproducible workflows |
 
 ---
-
-## Methods & Techniques
-
-### Computational Tools
-- **DFT**: VASP, Quantum ESPRESSO, ORCA
-- **MLIPs**: PANNA, BACENET, NequIP, MACE, GRACE
-- **Molecular Dynamics**: LAMMPS, ASE
-- **Data Generation**: Automated workflows, CSP, enhanced sampling
 
 ### Research Areas
 1. **Graph Neural Networks for Materials** – Physics-informed architectures

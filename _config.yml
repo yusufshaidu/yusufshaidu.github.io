@@ -1,3 +1,10 @@
 title: Yusuf Shaidu
-description: Research in DFT, MLIPs and Materials Modeling
-theme: minima
+description: Computational Materials Scientist | MLIPs | DFT | MOFs
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "default"  # try "air", "contrast" if you want
+
+markdown: kramdown

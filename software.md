@@ -8,6 +8,8 @@ toc: true
 
 ## 🛠️ Software & Tools
 
+I develop and utilize a comprehensive suite of computational tools for materials science, machine learning, and atomistic simulations. Below is an overview of the software I work with regularly.
+
 ### Atomistic Simulation
 VASP, Quantum ESPRESSO, ORCA, LAMMPS, ASE, Phonopy
 

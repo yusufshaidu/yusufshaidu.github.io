@@ -44,7 +44,7 @@ I develop **efficient data generation workflows**, **physics-informed ML models*
 - Pioneered **electrostatics-aware MLIPs** via charge equilibration  
 - Developed **MLIPs from chemical composition alone** using CSP + DFT + MD workflows  
 - Built the **first MLIPs for amine-appended MOFs** for CO₂ capture  
-- Develop approaches to generate DFT trainig data for **twisted TMDs** signicantly cutting the cost of training MLIP for TMD heterostructures  
+- Introduced data-efficient DFT training strategies for twisted TMDs, dramatically lowering the computational cost of MLIP development for moiré heterostructures.  
 - Developed **PANNA and BACENET** for scalable MLIP deployment  
 
 ---

@@ -2,8 +2,11 @@
 layout: single
 title: Softwares
 permalink: /software/
+author_profile: false
+toc: true
 ---
-## 🛠️ Softwares
+
+## Softwares
 
 **Atomistic Simulation:**  
 VASP, Quantum ESPRESSO, ORCA, LAMMPS, ASE, Phonopy  

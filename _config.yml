@@ -7,18 +7,29 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# Required for GitHub Pages
 minimal_mistakes_skin: default
 
+# Navigation menu
+navbar_links:
+  - Home: "/"
+  - Research: "/research/"
+  - Publications: "/publications/"
+  - Software: "/software/"
+
+author:
+  name: "Yusuf Shaidu"
+  avatar: "https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg"
+  bio: "Postdoctoral Researcher | Computational Materials Scientist"
+  
 # Navigation
-header:
-  overlay_image: /assets/images/header-bg.jpg
-  overlay_filter: 0.5
+#header:
+#  overlay_image: /assets/images/header-bg.jpg
+#  overlay_filter: 0.5
 
 # Site settings
-logo: /assets/images/logo.png
-masthead_title: "Yusuf Shaidu"
-breadcrumbs: true
+#logo: /assets/images/logo.png
+#masthead_title: "Yusuf Shaidu"
+#breadcrumbs: true
 
 # Footer
 footer:

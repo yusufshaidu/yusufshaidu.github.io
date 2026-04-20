@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-
+[Research](research.md) | [Publications](publications.md) | [Software](software.md)
 <div>
 
 <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg"

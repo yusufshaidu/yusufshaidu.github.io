@@ -10,7 +10,7 @@ title: Home
        width="200"
        alt="Yusuf Shaidu">
 
-  <h1 style="margin-bottom: 5px;">Yusuf Shaidu</h1>
+  <h1 style="margin-bottom: 0;">Yusuf Shaidu</h1>
 
   <p style="font-size: 1.1em; margin-top: 0;">
     Postdoctoral Researcher<br>

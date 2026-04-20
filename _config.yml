@@ -1,10 +1,14 @@
 title: Yusuf Shaidu
 description: Computational Materials Scientist | MLIPs | DFT | MOFs
+
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-remote-theme
 
-minimal_mistakes_skin: "default"  # try "air", "contrast" if you want
+# Required for GitHub Pages
+minimal_mistakes_skin: default
 
+# Fix build issues
+locale: "en-US"
 markdown: kramdown

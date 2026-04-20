@@ -1,14 +1,64 @@
 ---
-layout: default
+layout: single
 ---
 
-<article class="publication-page">
-  <header>
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
-  </header>
-  
-  <section class="content">
-    {{ content }}
-  </section>
-</article>
+<div class="publications-container">
+  {{ content }}
+</div>
+
+<style>
+.publications-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.publication-item {
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 4px solid #3498db;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.publication-item:hover {
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.publication-year {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 10px;
+}
+
+.publication-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #2c3e50;
+}
+
+.publication-journal {
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+.publication-doi {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 12px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.publication-doi:hover {
+  background-color: #2980b9;
+}
+</style>

@@ -1,4 +1,9 @@
-## 🛠️ Skills
+---
+layout: single
+title: Softwares
+permalink: /software/
+---
+## 🛠️ Softwares
 
 **Atomistic Simulation:**  
 VASP, Quantum ESPRESSO, ORCA, LAMMPS, ASE, Phonopy  

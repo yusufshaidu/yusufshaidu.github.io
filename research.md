@@ -1,3 +1,9 @@
+---
+layout: single
+title: Research
+permalink: /research/
+---
+
 ## 🚀 Research Highlights
 
 - Pioneered **electrostatics-aware MLIPs** via charge equilibration  

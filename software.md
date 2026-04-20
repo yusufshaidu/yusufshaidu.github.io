@@ -12,4 +12,3 @@ MACE, e3nn, PANNA, BACENET
 **Other Tools:**  
 twist-layer toolkit, SA-RSS workflow  
 
----

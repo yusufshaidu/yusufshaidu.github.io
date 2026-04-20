@@ -4,14 +4,24 @@ title: Home
 ---
 
 <div style="text-align: justify;">
+
   <img src="https://raw.githubusercontent.com/yusufshaidu/yusufshaidu.github.io/main/likedin_picture.jpeg"
-       style="float: right; margin-left: 15px; border-radius: 50%;"
+       style="float: right; margin-left: 20px; border-radius: 50%;"
        width="200"
        alt="Yusuf Shaidu">
 
-  Researcher at the University of California, Berkeley, & <br /> 
-  Lawrence Berkeley National Laboratory (LBL). <br />
-  Contact: yshaidu@berkeley.edu
+  <h1 style="margin-bottom: 5px;">Yusuf Shaidu</h1>
+
+  <p style="font-size: 1.1em; margin-top: 0;">
+    Postdoctoral Researcher<br>
+    University of California, Berkeley &<br>
+    Lawrence Berkeley National Laboratory (LBL)
+  </p>
+
+  <p>
+    📧 <a href="mailto:yshaidu@berkeley.edu">yshaidu@berkeley.edu</a>
+  </p>
+
 </div>
 
 I am a computational condensed matter physicist. My research focuses on the development and application of Density Functional Theory (DFT) and Machine Learning Interatomic Potentials (MLIPs) based on graph neural networks (GNNs) to investigate the properties of complex energy materials, including energy storage, semiconductors, ferroelectrics, optoelectronic, and quantum materials. 

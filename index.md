@@ -50,13 +50,9 @@ I develop **efficient data generation workflows**, **physics-informed ML models*
 
 ## 🚀 Featured Highlights
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #3498db; border-radius: 4px; margin: 20px 0;">
-
 - ⭐ **Featured by MAX Centre** for MLIP dataset generation work
 - 🔬 **Upcoming highlight** at Lawrence Berkeley National Laboratory
 - 📚 **6 publications** in top-tier journals (2021-2025)
-
-</div>
 
 ---
 

@@ -22,7 +22,7 @@ title: Home
     📧 <a href="mailto:yshaidu@berkeley.edu">yshaidu@berkeley.edu</a>
     🔗 <a href="https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en">Google Scholar</a> | 
       <a href="https://github.com/yusufshaidu">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/yusuf-shaidu-73b170a2">LinkedIN</a>
+      <a href="https://www.linkedin.com/in/yusuf-shaidu-73b170a2">LinkedIn</a>
   </p>
 
 </div>

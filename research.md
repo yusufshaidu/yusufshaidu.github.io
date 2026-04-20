@@ -15,8 +15,6 @@ I specialize in **computational materials science**, combining **Density Functio
 
 ## Research Highlights
 
-<div class="research-highlights">
-
 - **Electrostatics-Aware MLIPs** – Pioneered charge equilibration methods to incorporate electrostatic effects into neural network potentials, improving accuracy for ionic systems
 
 - **Composition-to-MLIP Workflow** – Developed automated pipelines that generate MLIPs from chemical composition alone using crystal structure prediction (CSP) + DFT + MD
@@ -26,8 +24,6 @@ I specialize in **computational materials science**, combining **Density Functio
 - **Twisted TMDs & Moiré Systems** – Introduced data-efficient DFT training strategies for twisted transition metal dichalcogenides, dramatically reducing computational costs for moiré heterostructures
 
 - **PANNA & BACENET** – Developed scalable software frameworks for deploying MLIPs in production-scale simulations
-
-</div>
 
 ---
 

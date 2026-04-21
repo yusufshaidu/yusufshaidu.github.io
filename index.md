@@ -4,7 +4,6 @@ title: Home
 author_profile: false
 ---
 
-## Navigation
 [Home](/) | [Research](/research/) | [Publications](/publications/) | [Software](/software/)
 
 ---
@@ -28,10 +27,10 @@ Lawrence Berkeley National Laboratory
 
 <p style="margin: 15px 0;">
 <strong>Contact & Links:</strong><br>
-📧 <a href="mailto:yshaidu@berkeley.edu">yshaidu@berkeley.edu</a><br>
-🎓 <a href="https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en">Google Scholar</a> | 
-🐙 <a href="https://github.com/yusufshaidu">GitHub</a> | 
-💼 <a href="https://www.linkedin.com/in/yusuf-shaidu-73b170a2">LinkedIn</a>
+ <a href="mailto:yshaidu@berkeley.edu">yshaidu@berkeley.edu</a><br>
+ <a href="https://scholar.google.com/citations?user=nmKIMX0AAAAJ&hl=en">Google Scholar</a> | 
+ <a href="https://github.com/yusufshaidu">GitHub</a> | 
+ <a href="https://www.linkedin.com/in/yusuf-shaidu-73b170a2">LinkedIn</a>
 </p>
 
 </div>
@@ -40,7 +39,7 @@ Lawrence Berkeley National Laboratory
 
 ---
 
-## 🧠 Research Overview
+## Research Overview
 
 I am a computational condensed matter physicist specializing in **Density Functional Theory (DFT)** and **machine learning interatomic potentials (MLIPs)** based on graph neural networks. My work focuses on predictive modeling of complex energy materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronics, and quantum materials.
 
@@ -48,15 +47,14 @@ I develop **efficient data generation workflows**, **physics-informed ML models*
 
 ---
 
-## 🚀 Featured Highlights
+## Featured Highlights
 
-- ⭐ **Featured by MAX Centre** for MLIP dataset generation work
-- 🔬 **Upcoming highlight** at Lawrence Berkeley National Laboratory
-- 📚 **6 publications** in top-tier journals (2021-2025)
+-  **Featured by MAX Centre** for MLIP dataset generation work
+-  **Upcoming highlight** at Lawrence Berkeley National Laboratory
 
 ---
 
-## 📖 Quick Links to My Work
+##  Quick Links to My Work
 
 ### [Research](/research/)
 Explore my research areas: electrostatics-aware MLIPs, composition-to-MLIP workflows, amine-appended MOFs, and twisted TMDs.

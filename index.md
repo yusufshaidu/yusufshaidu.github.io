@@ -53,7 +53,6 @@ I develop **efficient ML training data generation workflows**, **physics-informe
 -  **Upcoming highlight** at Lawrence Berkeley National Laboratory
 
 ---
----
 
 ## 🤝 Collaboration & Mentorship
 

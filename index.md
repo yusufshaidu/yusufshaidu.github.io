@@ -41,9 +41,9 @@ Lawrence Berkeley National Laboratory
 
 ## Research Overview
 
-I am a computational condensed matter physicist specializing in **Density Functional Theory (DFT)** and **machine learning interatomic potentials (MLIPs)** based on graph neural networks. My work focuses on predictive modeling of complex energy materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronics, and quantum materials.
+I am a computational condensed matter physicist specializing in development and application of **Density Functional Theory (DFT)** and ** novel machine learning interatomic potentials (MLIPs) architectures** based on graph neural networks, message passing and equivariant. My work focuses on predictive modeling of complex energy materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronics, and quantum materials.
 
-I develop **efficient data generation workflows**, **physics-informed ML models**, and perform **large-scale MLIP-accelerated molecular dynamics and enhanced sampling simulations** on high-performance computing platforms to study chemical processes in complex systems.
+I develop **efficient ML training data generation workflows**, **physics-informed ML models**, and perform **large-scale MLIP-accelerated molecular dynamics and enhanced sampling simulations** on high-performance computing platforms to study chemical processes in complex systems.
 
 ---
 
@@ -53,18 +53,6 @@ I develop **efficient data generation workflows**, **physics-informed ML models*
 -  **Upcoming highlight** at Lawrence Berkeley National Laboratory
 
 ---
-
-##  Quick Links to My Work
-
-### [Research](/research/)
-Explore my research areas: electrostatics-aware MLIPs, composition-to-MLIP workflows, amine-appended MOFs, and twisted TMDs.
-
-### [Publications](/publications/)
-View my **6 selected publications** on Google Scholar, spanning DFT, MLIPs, and materials discovery (2021-2025).
-
-### [Software](/software/)
-Check out my open-source tools: **PANNA**, **BACENET**, and data-efficient DFT workflows.
-
 ---
 
 ## 🤝 Collaboration & Mentorship

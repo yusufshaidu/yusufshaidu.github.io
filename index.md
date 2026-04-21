@@ -41,7 +41,7 @@ Lawrence Berkeley National Laboratory
 
 ## Research Overview
 
-I am a computational condensed matter physicist specializing in development and application of **Density Functional Theory (DFT)** and ** novel machine learning interatomic potentials (MLIPs) architectures** based on graph neural networks, message passing and equivariant. My work focuses on predictive modeling of complex energy materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronics, and quantum materials.
+I am a computational condensed matter physicist specializing in development and application of **Density Functional Theory (DFT)** and **novel machine learning interatomic potentials (MLIPs) architectures** based on graph neural networks, message passing and equivariant. My work focuses on predictive modeling of complex energy materials, including energy storage systems, semiconductors, ferroelectrics, optoelectronics, and quantum materials.
 
 I develop **efficient ML training data generation workflows**, **physics-informed ML models**, and perform **large-scale MLIP-accelerated molecular dynamics and enhanced sampling simulations** on high-performance computing platforms to study chemical processes in complex systems.
 
